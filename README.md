@@ -1,8 +1,8 @@
-# HTML Crash Course 2021
+# CSS Crash Course 2021
 
 ## Maintainers
 
-This math calculator is maintained by Ryan.
+This repository is maintained by Ryan.
 
 ## Status
 
